@@ -1,4 +1,5 @@
 <template>
+<div class="inner-block">
     <div class="vue-tempalte">
         <form>
             <h3>Sign In</h3>
@@ -17,6 +18,7 @@
             
         </form>
     </div>
+</div>
 </template>
 
 <script>
